@@ -1,0 +1,52 @@
+# Village war (nom provisoire)
+
+Bienvenue sur le dépôt officiel de **Village war (nom provisoire)**, un jeu **en ligne à deux joueurs** développé par Kinda-kooky.
+
+---
+
+## Fonctionnement du jeu
+
+### Mode en ligne (via le serveur officiel)
+- Ce mode se connecte automatiquement au **serveur officiel** et vous permet de trouver un autre joueur pour une partie en réseau.
+- Une connexion Internet est donc requise.
+- Activer par défaut
+
+### Mode serveur local
+- Il n'y a pas de serveur local pour linux
+
+---
+
+## État actuel du jeu
+
+Le jeu est **en cours de développement actif**.
+Cela signifie qu’il peut :
+- contenir des **bugs** ou des **plantages**,
+- avoir des **problèmes de synchronisation réseau**,
+- ou **ne pas fonctionner correctement** sur certaines configurations.
+
+**Merci de votre compréhension** : ces versions sont destinées à des tests et peuvent être instables.
+
+---
+
+## Communauté et support
+
+Pour toute question, information supplémentaire ou retour :
+- sur le serveur Discord officiel : https://discord.com/invite/2uptKybmez
+- Vous pouvez :
+  - Signaler des **bugs**,
+  - Suggérer des **améliorations**,
+  - Discuter avec les autres joueurs,
+  - Être informé des **mises à jour**.
+
+---
+
+## Remerciements
+
+Merci à toutes les personnes qui testent le jeu et participent à son amélioration ❤️
+Votre aide permet de rendre le projet plus stable et plus fun à chaque version !
+
+---
+
+## © Droits d’auteur
+© 2025 Kinda-kooky. Tous droits réservés.
+Toute utilisation en dehors des conditions de la licence est strictement interdite.

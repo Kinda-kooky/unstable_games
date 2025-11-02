@@ -1,0 +1,1 @@
+start "" "Village_war.exe" "--serveur"

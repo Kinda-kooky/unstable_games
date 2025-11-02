@@ -1,0 +1,1 @@
+open "Village_war.X86_64" --args --online

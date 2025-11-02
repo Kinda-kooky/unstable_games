@@ -1,0 +1,1 @@
+open "Village_war.app" --args --serveur
